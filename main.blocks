@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="QH7;,$h$;tC3G|MGWQNQ" x="20" y="20"><statement name="HANDLER"><block type="basic_show_icon" id="8wlttKOW9LQLYf%F.6an"><field name="i">IconNames.Yes</field></block></statement></block></xml>
